@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vex-nh
+- 👀 I’m interested in scripting, gfx, animating, and more.
+- 🌱 I’m currently learning: How to better my lua code as well as making better UI.
+- 💞️ I’m looking to collaborate on: Roblox games and communities.
+- 📫 How to reach me: directionz on discord, or nhru/vherdict on roblox.
